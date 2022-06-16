@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="inside">#ffd82b</color>
+    <color name="disabled">#b6b6b6</color>
+    <color name="close">#ff4a4d</color>
+    <color name="open">#46af00</color>
+    <color name="running">#ff7817</color>
+    <color name="ghost_white">#F8F8FF</color>
+    <color name="light_gray">#e9e9e9</color>
+    <color name="color_overlay">#5C165486</color>
+    <color name="gray">#7d7d7d</color>
+    <color name="ocean">#FF19AA8B</color>
+    <color name="blue">#FF23A7D8</color>
+    <color name="transparent">#00ffffff</color>
+</resources>

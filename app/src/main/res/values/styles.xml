@@ -1,0 +1,35 @@
+<resources>
+
+    <color name="brand_primary">#539BD3</color>
+    <color name="brand_primary_dark">#539BD3</color>
+    <color name="brand_primary_light">#e29bcef5</color>
+    <color name="brand_accent">#ffffff</color>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/brand_primary</item>
+        <item name="colorPrimaryDark">@color/brand_primary_dark</item>
+        <item name="colorAccent">@color/brand_accent</item>
+    </style>
+
+    <style name="ToolBarWithNavigationBack">
+        <item name="navigationIcon">@drawable/abc_ic_ab_back_material</item>
+    </style>
+
+    <style name="CollapsingTextAppearance" parent="Base.TextAppearance.AppCompat.Widget.ActionBar.Title" />
+
+    <style name="CollapsingTextAppearance.Inverse">
+        <item name="android:textSize">30sp</item>
+    </style>
+
+
+    <style name="dialog_light" parent="@android:style/Theme.Dialog">
+        <item name="android:textColor">#539BD3</item>
+        <item name="android:typeface">monospace</item>
+    </style>
+
+    <style name="Theme.App.Base" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorControlNormal">@color/brand_primary_light</item>
+        <item name="colorControlActivated">@color/brand_primary</item>
+        <item name="colorControlHighlight">@color/brand_primary</item>
+    </style>
+</resources>

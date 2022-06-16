@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="close_id">2803</integer>
+    <integer name="open_id">5529</integer>
+    <integer name="car_left_id">9701</integer>
+    <integer name="car_arrived_id">3845</integer>
+    <integer name="door_left_open_id">6542</integer>
+
+    <integer name="android_id">0</integer>
+    <integer name="ios_id">1</integer>
+    <integer name="remote_id">2</integer>
+
+</resources>

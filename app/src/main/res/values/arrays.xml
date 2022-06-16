@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="auto_handle_delay">
+        <item>5 másodperc</item>
+        <item>10 másodperc</item>
+        <item>20 másodperc</item>
+        <item>30 másodperc</item>
+        <item>2 perc</item>
+        <item>3 perc</item>
+        <item>4 perc</item>
+        <item>5 perc</item>
+    </string-array>
+    <string-array name="auto_handle_delay_entry">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+    </string-array>
+    <string-array name="forget_delay">
+        <item>5 perc</item>
+        <item>10 perc</item>
+        <item>20 perc</item>
+        <item>30 perc</item>
+        <item>45 perc</item>
+        <item>1 óra</item>
+        <item>1 óra 30 perc</item>
+        <item>2 óra</item>
+        <item>3 óra</item>
+        <item>4 óra</item>
+        <item>5 óra</item>
+    </string-array>
+    <string-array name="forget_delay_entry">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+    <string-array name="light_timeout">
+        <item>1 perc</item>
+        <item>2 perc</item>
+        <item>3 perc</item>
+        <item>4 perc</item>
+        <item>5 perc</item>
+        <item>10 óra</item>
+        <item>15 perc</item>
+        <item>20 perc</item>
+        <item>25 perc</item>
+        <item>30 perc</item>
+    </string-array>
+    <string-array name="light_timeout_entry">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+    </string-array>
+    <string-array name="light_trigg">
+        <item>a garázs még zárva van</item>
+        <item>a garázs kinyílt</item>
+        <item>az autójával beállt</item>
+    </string-array>
+    <string-array name="light_trigg_entry">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+</resources>
